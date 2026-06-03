@@ -3,7 +3,7 @@
 </div>
 
 ## Overview
-We present a benchmark for semi-supervised multi-modal crowd counting. [arXiv](Coming soon)
+We present a benchmark for semi-supervised multi-modal crowd counting. The paper is available at [arXiv](http://arxiv.org/abs/2606.03646).
 
 It contains a standardized protocol that specifies the labeled-unlabeled data partition across different labeled ratios (5%, 10%, 40%), and the adaptation of a diverse set of representative baselines, including existing fully supervised multi-modal methods and semi-supervised single-modal methods.
 
@@ -42,5 +42,10 @@ If you have any questions or concerns, please contact us at menghaoliang2002@163
 If you find this repository useful in your research, please consider citing our work as follows:
 
 ```
-(ArXiv BibTex coming soon)
+@article{meng2026benchmark,
+  title={A Benchmark for Semi-supervised Multi-modal Crowd Counting},
+  author={Meng, Haoliang and Hong, Xiaopeng and Wang, Yabin and Zuo, Wangmeng},
+  journal={arXiv preprint arXiv:2606.03646},
+  year={2026}
+}
 ```
